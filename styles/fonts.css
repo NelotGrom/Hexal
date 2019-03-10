@@ -1,0 +1,23 @@
+@font-face {
+    font-family: 'Lato-Bold';
+    src: url('../assets/fonts/Lato/Lato-Bold.ttf');
+    }
+
+@font-face {
+    font-family: 'Lato-Regular';
+    src: url('../assets/fonts/Lato/Lato-Regular.ttf');
+    }
+@font-face {
+    font-family: 'Lato-Black';
+    src: url('../assets/fonts/Lato/Lato-Black.ttf');
+}
+
+@font-face {
+    font-family: 'MavenPro-Regular';
+    src: url('../assets/fonts/Maven_Pro/MavenPro-Regular.ttf');
+    }
+    
+@font-face {
+    font-family: 'MyRaid-Pro';
+    src: url('../assets/fonts/MyRaid-Pro/MyRaid-Pro.otf');
+    }
