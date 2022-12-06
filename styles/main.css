@@ -140,7 +140,6 @@ body {
     margin: 20px;
     transform: rotate(120deg);
     overflow: hidden;
-    visibility: hidden;
     margin-right: 5px;
     margin-bottom: 0px;
     position: relative;
@@ -153,7 +152,6 @@ body {
     height: 100%;
     transform: rotate(-60deg);
     overflow: hidden;
-    visibility: hidden;
 }
 
 .field-hexagon-1-layer-2 {
@@ -176,7 +174,6 @@ body {
     margin: 20px;
     transform: rotate(120deg);
     overflow: hidden;
-    visibility: hidden;
     position: relative;
     top: 65px;
     left: 10px;
@@ -187,7 +184,6 @@ body {
     height: 100%;
     transform: rotate(-60deg);
     overflow: hidden;
-    visibility: hidden;
 }
 
 .field-hexagon-2-layer-2 {
@@ -209,7 +205,6 @@ body {
     margin: 20px;
     transform: rotate(120deg);
     overflow: hidden;
-    visibility: hidden;
     position: relative;
     top: 65px;
     left: -40px;
@@ -220,7 +215,6 @@ body {
     height: 100%;
     transform: rotate(-60deg);
     overflow: hidden;
-    visibility: hidden;
 }
 
 .field-hexagon-3-layer-2 {
@@ -252,7 +246,6 @@ body {
     margin-left: 0px;
     transform: rotate(120deg);
     overflow: hidden;
-    visibility: hidden;
     position: relative;    
     top: -73px;
     left: -98px;
@@ -263,7 +256,6 @@ body {
     height: 100%;
     transform: rotate(-60deg);
     overflow: hidden;
-    visibility: hidden;
 }
 
 .field-hexagon-4-layer-2 {
@@ -285,7 +277,6 @@ body {
     height: 210px;
     transform: rotate(120deg);
     overflow: hidden;
-    visibility: hidden;
     margin-right: 10px;    
 }
 
@@ -294,7 +285,6 @@ body {
     height: 100%;
     transform: rotate(-60deg);
     overflow: hidden;
-    visibility: hidden;
 }
 
 .field-hexagon-5-layer-2 {
@@ -317,7 +307,6 @@ body {
     margin: 20px;
     transform: rotate(120deg);
     overflow: hidden;
-    visibility: hidden;
     margin-left: 10px;
     margin-right: 10px;
     margin-top: 0px;
@@ -329,7 +318,6 @@ body {
     height: 100%;
     transform: rotate(-60deg);
     overflow: hidden;
-    visibility: hidden;
 }
 
 .field-hexagon-6-layer-2 {
@@ -351,7 +339,6 @@ body {
     margin: 20px;
     transform: rotate(120deg);
     overflow: hidden;
-    visibility: hidden;
     margin-left: 10px;
     margin-right: 10px;
     margin-top: 0px;
@@ -363,7 +350,6 @@ body {
     height: 100%;
     transform: rotate(-60deg);
     overflow: hidden;
-    visibility: hidden;
 }
 
 .field-hexagon-7-layer-2 {
@@ -386,7 +372,6 @@ body {
     margin: 20px;
     transform: rotate(120deg);
     overflow: hidden;
-    visibility: hidden;
     margin-left: 10px;
     margin-right: 10px;
     margin-top: 0px;
@@ -398,7 +383,6 @@ body {
     height: 100%;
     transform: rotate(-60deg);
     overflow: hidden;
-    visibility: hidden;
 }
 
 .field-hexagon-8-layer-2 {
@@ -421,7 +405,6 @@ body {
     margin: 20px;
     transform: rotate(120deg);
     overflow: hidden;
-    visibility: hidden;
     margin-left: 10px;
     margin-top: 0px;
     margin-bottom: 0px;
@@ -432,7 +415,6 @@ body {
     height: 100%;
     transform: rotate(-60deg);
     overflow: hidden;
-    visibility: hidden;
 }
 
 .field-hexagon-9-layer-2 {
@@ -464,7 +446,6 @@ body {
     margin: 20px;
     transform: rotate(120deg);
     overflow: hidden;
-    visibility: hidden;
     position: relative;
     top: -73px;
     left: 103px;
@@ -475,7 +456,6 @@ body {
     height: 100%;
     transform: rotate(-60deg);
     overflow: hidden;
-    visibility: hidden;
 }
 
 .field-hexagon-10-layer-2 {
@@ -498,7 +478,6 @@ body {
     margin: 20px;
     transform: rotate(120deg);
     overflow: hidden;
-    visibility: hidden;
     position: relative;
     top: -65px;
     left: 10px;
@@ -509,7 +488,6 @@ body {
     height: 100%;
     transform: rotate(-60deg);
     overflow: hidden;
-    visibility: hidden;
 }
 
 .field-hexagon-11-layer-2 {
@@ -532,7 +510,6 @@ body {
     margin: 20px;
     transform: rotate(120deg);
     overflow: hidden;
-    visibility: hidden;
     position: relative;
     top: -65px;
     left: -40px;
@@ -543,7 +520,6 @@ body {
     height: 100%;
     transform: rotate(-60deg);
     overflow: hidden;
-    visibility: hidden;
 }
 
 .field-hexagon-12-layer-2 {
@@ -575,7 +551,6 @@ body {
     margin: 20px;
     transform: rotate(120deg);
     overflow: hidden;
-    visibility: hidden;
     position: relative;
     top: -73px;
     left: -118px;
@@ -586,7 +561,6 @@ body {
     height: 100%;
     transform: rotate(-60deg);
     overflow: hidden;
-    visibility: hidden;
 }
 
 .field-hexagon-13-layer-2 {
@@ -636,7 +610,6 @@ body {
     margin: 20px;
     transform: rotate(120deg);
     overflow: hidden;
-    visibility: hidden;
 }
 
 .author-hexagon-layer-1 {
@@ -644,7 +617,6 @@ body {
     height: 100%;
     transform: rotate(-60deg);
     overflow: hidden;
-    visibility: hidden;
 }
 
 .author-hexagon-layer-2 {
